@@ -1,3 +1,4 @@
 token:
-    expiration_time: 964000000
+    expiration_time: 864000000
     secret: VjJ0YWIxUXlTa2hVYms1UVZrVktjRlJYTlZOak1XeDBXWHBzVVZWVU1Eaz0=
+gateway.ip: 192.000.0.0
