@@ -1,4 +1,4 @@
 token:
-    expiration_time: 864000000
-    secret: VjJ0YWIxUXlTa2hVYms1UVZrVktjRlJYTlZOak1XeDBXWHBzVVZWVU1Eaz0=(수정)
+    expiration_time: 1004
+    secret: test(1)
 gateway.ip: 192.000.0.0
