@@ -1,4 +1,4 @@
 token:
-    expiration_time: 1004
-    secret: test(1)
+    expiration_time: 864000000
+    secret: my_token
 gateway.ip: 192.000.0.0
